@@ -1,4 +1,6 @@
 # My-First-Shooting-Game
+I'm working on my first shooter game, The game once inspired me, it called silent hill
+The game will have monsters, secrets, puzzles and more interesting misterious, it's just like silent hill
 
 # Enemies
 Monsters that will chase you almost entire game, it's not done yet, but they will closely will look like this
